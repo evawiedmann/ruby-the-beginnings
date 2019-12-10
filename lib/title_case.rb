@@ -14,5 +14,3 @@ class String
     title_array.join(' ')
   end
 end
-
-puts 'the dog is cool'.cap()
